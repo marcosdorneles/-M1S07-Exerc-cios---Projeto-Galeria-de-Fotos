@@ -14,7 +14,7 @@ import { GaleriaComponent } from '../components/galeria/galeria.component'
   imports: [
     BrowserModule,
     AppRoutingModule,
-    GaleriaComponent
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
